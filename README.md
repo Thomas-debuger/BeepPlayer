@@ -22,8 +22,7 @@
 > **操作提示：** 將程式執行時的截圖命名為 `screenshot.png`，並上傳至此 GitHub 專案的根目錄中，圖片就會自動顯示在下方。
 
 <img width="742" height="172" alt="螢幕擷取畫面 2026-05-12 134903" src="https://github.com/user-attachments/assets/a7b2b602-fbec-410f-9610-bb1701107a0f" />
-
-
+---
 <img width="742" height="202" alt="螢幕擷取畫面 2026-05-12 135012" src="https://github.com/user-attachments/assets/362eb6ae-9f95-460b-9b36-ebbe7698e5e1" />
 
 ## 執行與編譯說明 (Getting Started)
