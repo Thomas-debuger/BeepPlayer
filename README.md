@@ -1,5 +1,3 @@
-
-```markdown
 # Beep Player 系統蜂鳴器鋼琴 🎹
 
 這是一個使用 C# Windows Forms 開發的趣味小工具。透過呼叫 Windows 系統底層的 API (`kernel32.dll`)，利用主機板或系統音效發出不同頻率的聲音，在畫面上模擬出一個可以彈奏 C4 到 C5 八度音階的迷你鍵盤。
@@ -32,10 +30,9 @@
 
 ### 執行步驟
 1. 複製此專案到本地端：
-   ```bash
+   ```
    git clone [https://github.com/Thomas-debuger/BeepPlayer.git](https://github.com/Thomas-debuger/BeepPlayer.git)
-
-```
+   ```
 
 2. 進入專案資料夾，對著 `BeepPlayer.sln` 方案檔點擊兩下，以 Visual Studio 開啟專案。
 3. 在 Visual Studio 中，按下鍵盤上的 `F5` 鍵，或點擊上方工具列的 **[啟動]** 按鈕。
