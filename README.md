@@ -61,7 +61,3 @@ double iRatioHeight = height / this.initHeight;
 // 依照 iRatioWith 與 iRatioHeight 重新設定控制項的 Width、Height、Top 與 Left
 
 ```
-
-```
-
-```
